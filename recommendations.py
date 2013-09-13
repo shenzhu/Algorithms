@@ -20,7 +20,7 @@ critics = {'Lisa Rose':{'Lady in the Water':2.5,
                            'Just My Luck':3.0,
                            'The Night Listener':4.5,
                            'Superman Returns':4.0,
-                           'You, Me and Durpee':2.5},
+                           'You, Me and Durpee':3.0},
 
            'Mick LaSalle':{'Lady in the Water':3.0,
                            'Snakes on a Plane':4.0,
