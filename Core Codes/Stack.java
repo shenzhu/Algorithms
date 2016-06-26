@@ -93,7 +93,7 @@ public Class Stack<Item> implements Iterable<Item>{
 	private class Node{
 		// inner class
 		Item item;
-		Node node;
+		Node next;
 	}
 
 	public boolean isEmpty(){
